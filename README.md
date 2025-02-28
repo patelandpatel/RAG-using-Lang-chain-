@@ -5,33 +5,32 @@
 This repository contains an **Updated LangChain Implementation**, integrating **LLMs, Chatbots, APIs, and Retrieval-Augmented Generation (RAG)** with various frameworks like **HuggingFace, Groq, ObjectBox**, and more.
 
 ## 📂 Project Structure
-```
 Updated-Langchain-main/
 │── 📜 .gitignore
 │── 📜 LICENSE
 │── 📜 README.md
 │── 📜 requirements.txt
 │── 📂 agents/
-│   ├── agents.ipynb
+│   ├── 📄 agents.ipynb
 │── 📂 api/
-│   ├── app.py
-│   ├── client.py
+│   ├── 📄 app.py
+│   ├── 📄 client.py
 │── 📂 chain/
-│   ├── attention.pdf
-│   ├── retriever.ipynb
+│   ├── 📄 attention.pdf
+│   ├── 📄 retriever.ipynb
 │── 📂 chatbot/
-│   ├── app.py
-│   ├── localama.py
+│   ├── 📄 app.py
+│   ├── 📄 localama.py
 │── 📂 groq/
-│   ├── app.py
-│   ├── groq.ipynb
-│   ├── llama3.py
+│   ├── 📄 app.py
+│   ├── 📄 groq.ipynb
+│   ├── 📄 llama3.py
 │── 📂 huggingface/
-│   ├── huggingface.ipynb
-│   ├── us_census/ (Various PDF reports)
+│   ├── 📄 huggingface.ipynb
+│   ├── 📂 us_census/ (Various PDF reports)
 │── 📂 objectbox/
-│   ├── .env
-```
+│   ├── 📜 .env
+
 
 ---
 
