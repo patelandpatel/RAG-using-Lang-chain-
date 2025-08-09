@@ -13,6 +13,7 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
+
 ## load the Groq API key
 groq_api_key=os.environ['GROQ_API_KEY']
 
