@@ -9,8 +9,6 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain_community.vectorstores import FAISS
 import time
-
-
 from dotenv import load_dotenv
 load_dotenv()
 
