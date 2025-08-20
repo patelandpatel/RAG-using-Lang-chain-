@@ -11,6 +11,8 @@ from langchain_community.document_loaders import PyPDFDirectoryLoader
 
 from dotenv import load_dotenv
 
+
+
 load_dotenv()
 
 ## load the GROQ And OpenAI API KEY 
