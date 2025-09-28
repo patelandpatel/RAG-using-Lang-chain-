@@ -6,7 +6,7 @@ import uvicorn
 import os
 from langchain_community.llms import Ollama
 from dotenv import load_dotenv
-
+d
 load_dotenv()
 
 os.environ['OPENAI_API_KEY']=os.getenv("OPENAI_API_KEY")
